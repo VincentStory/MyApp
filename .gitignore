@@ -1,0 +1,15 @@
+.idea/
+*.iml
+*.apk
+
+/local.properties
+
+/build
+build/
+/captures
+.externalNativeBuild
+
+.gradle/
+gradle/
+gradlew
+gradlew.bat
