@@ -54,6 +54,8 @@ public class MainActivity extends BaseActivity implements IBaseActivity, MainCon
     @Inject
     RegionFragment regionFragment;
 
+
+    //aaaaaaa
     private SupportFragment[] mFragments = new SupportFragment[4];
     private ArrayList<CustomTabEntity> mTabEntities = new ArrayList<>();
     private String[] mTitles;
