@@ -55,7 +55,7 @@ public class MainActivity extends BaseActivity implements IBaseActivity, MainCon
     RegionFragment regionFragment;
 
 
-    //aaaaaaa
+
     private SupportFragment[] mFragments = new SupportFragment[4];
     private ArrayList<CustomTabEntity> mTabEntities = new ArrayList<>();
     private String[] mTitles;
@@ -67,7 +67,7 @@ public class MainActivity extends BaseActivity implements IBaseActivity, MainCon
             R.drawable.ic_dynamic_unselected, R.drawable.ic_communicate_unselected};
 
 
-    //aaaaa
+
     @Override
     public int getLayoutId() {
         return R.layout.activity_main;
